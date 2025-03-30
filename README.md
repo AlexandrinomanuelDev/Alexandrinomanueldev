@@ -7,7 +7,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4gbKj51BH1yp44jKi9mhmX?si=78fe8e56b89b4428)
 [![Spotify](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steam.com/alexandrinomanuel0)
 
-![Alexandrino Manuel Dev](https://github-readme-stats.vercel.app/api?username=alexandrino&show_icons=true&theme=dracula)
+![Alexandrino Manuel Dev](https://github-readme-stats.vercel.app/api?username=alexandrinomanueldev_icons=true&theme=dracula)
 
 
 ## Minhas Tecnologias
